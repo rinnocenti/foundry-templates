@@ -1,7 +1,7 @@
 {
-  "name": "foundry-template",
-  "title": "New Template",
-  "description": "<p>NewTemplate v9</p>",
+  "name": "rpg-quinta",
+  "title": "RPG Quinta: Minas Perdidas de Phandolver",
+  "description": "<p>Mais de quinhentos anos atrás, clãs de anões e gnomos fizeram um acordo conhecido como Pacto de Phandelver, pelo qual eles compartilhariam uma rica mina em uma caverna maravilhosa conhecida como Wave Echo Cave. Além de sua riqueza mineral, a mina continha grande poder mágico. Feiticeiros humanos aliaram-se aos anões e gnomos para canalizar e ligar essa energia em uma grande forja (chamada de Forja de Feitiços), onde itens mágicos poderiam ser criados. Os tempos eram bons, e a cidade humana próxima de Phandalin também prosperou. Mas então o desastre aconteceu quando os orcs varreram o Norte e destruíram todos em seu caminho.</p>",
   "authors": [],
   "flags": {},
   "version": "1.0.0",
@@ -9,61 +9,7 @@
   "esmodules": [],
   "styles": [],
   "languages": [],
-  "packs": [
-    {
-      "label": "Tools",
-      "type": "Item",
-      "name": "tools",
-      "path": "packs/tools.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false,
-      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\tools.db"
-    },
-    {
-      "label": "All Itens",
-      "type": "Item",
-      "name": "all-itens",
-      "path": "packs/all-itens.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false
-    },
-    {
-      "label": "All Spells",
-      "type": "Item",
-      "name": "all-spells",
-      "path": "packs/all-spells.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false,
-      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\all-spells.db"
-    },
-    {
-      "label": "All Wizard Spells",
-      "type": "Item",
-      "name": "all-wizard-spells",
-      "path": "packs/all-wizard-spells.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false,
-      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\all-wizard-spells.db"
-    },
-    {
-      "label": "All Cleric Spells",
-      "type": "Item",
-      "name": "all-cleric-spells",
-      "path": "packs/all-cleric-spells.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false
-    }
-  ],
+  "packs": [],
   "system": "dnd5e",
   "dependencies": [],
   "socket": false,
