@@ -1,0 +1,76 @@
+{
+  "name": "foundry-template",
+  "title": "New Template",
+  "description": "<p>NewTemplate v9</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Tools",
+      "type": "Item",
+      "name": "tools",
+      "path": "packs/tools.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false,
+      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\tools.db"
+    },
+    {
+      "label": "All Itens",
+      "type": "Item",
+      "name": "all-itens",
+      "path": "packs/all-itens.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "label": "All Spells",
+      "type": "Item",
+      "name": "all-spells",
+      "path": "packs/all-spells.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false,
+      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\all-spells.db"
+    },
+    {
+      "label": "All Wizard Spells",
+      "type": "Item",
+      "name": "all-wizard-spells",
+      "path": "packs/all-wizard-spells.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false,
+      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\all-wizard-spells.db"
+    },
+    {
+      "label": "All Cleric Spells",
+      "type": "Item",
+      "name": "all-cleric-spells",
+      "path": "packs/all-cleric-spells.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "assets/scenes/background/dungeons-1631385278345-2683.jpg",
+  "coreVersion": "9.249",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.7"
+}
