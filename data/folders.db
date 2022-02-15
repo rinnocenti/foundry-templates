@@ -35,6 +35,7 @@
 {"_id":"8Y1aSuMQVdS5a8Ct","name":"Culto da Agua","type":"Scene","parent":"FYyXvVs97BWILfOl","sorting":"a","sort":300000,"color":"#170da0","flags":{}}
 {"name":"Dellmon Ranch","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"8fsRmCyKdxgKkc89"}
 {"name":"Quest: Túmulo de Pedras Móveis","type":"JournalEntry","parent":"pIRmbIKtaH3XCc1u","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"8vNSVGlM4r67k3ML"}
+{"name":"Amphil","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"8x6OufQFVWNQ4rWN"}
 {"_id":"9h6OMqpVv2IcL8Zc","name":"Informações Players","type":"JournalEntry","parent":null,"sorting":"a","sort":600000,"color":"#041b8b","flags":{}}
 {"name":"Spells","type":"RollTable","parent":"I2Jgqsv17aN6vIng","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"AW7aILAqINg8oA4X"}
 {"_id":"AYjqF5wtyxCWzBg5","name":"Triboar","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":400000,"color":"#000000","flags":{}}
@@ -149,6 +150,7 @@
 {"_id":"cMKOJycjhEi5jBED","name":"Lost Mine of Phandelver","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"m","sort":300000,"color":"#b57021","flags":{}}
 {"name":"Roll Tables","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#008000","flags":{},"_id":"cZZx4o51KC7znsU8"}
 {"name":"Quest: Axeholm","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"flags":{},"_id":"cZncxqbwVbOH6kTR"}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ckcnoIw3fYkesk9v"}
 {"name":"Lost Mine of Phandelver","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#b57021","flags":{},"_id":"dtREHQGQqSbKdQtU"}
 {"name":"Features","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"dvxrZ4KIJVYKceZ0"}
 {"name":"50 gp","type":"Item","parent":"2WJCjlt7MKgczI5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"eitkc35nteC6NzlH"}
