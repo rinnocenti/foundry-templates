@@ -1,7 +1,7 @@
 {
-  "name": "foundry-template",
-  "title": "New Template",
-  "description": "<p>NewTemplate v9</p>",
+  "name": "rpg-sexta",
+  "title": "RPG Sexta: Principes do Apocalipse",
+  "description": "<p><p>Chamado pelo Olho Elemental Ancião para servir, quatro profetas corruptos surgiram das profundezas do anonimato para reivindicar armas poderosas com ligações diretas ao poder dos príncipes elementais. Cada um desses profetas reuniu um quadro de cultistas e criaturas para servi-los na construção de quatro templos elementares de design letal. Cabe aos aventureiros de facções heróicas, como o Enclave Esmeralda e a Ordem da Película, descobrir onde está o verdadeiro poder de cada profeta e desmantelá-lo antes que ele ferva e destrua os Reinos.</p></p>",
   "authors": [],
   "flags": {},
   "version": "1.0.0",
@@ -9,61 +9,7 @@
   "esmodules": [],
   "styles": [],
   "languages": [],
-  "packs": [
-    {
-      "label": "Tools",
-      "type": "Item",
-      "name": "tools",
-      "path": "packs/tools.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false,
-      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\tools.db"
-    },
-    {
-      "label": "All Itens",
-      "type": "Item",
-      "name": "all-itens",
-      "path": "packs/all-itens.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false
-    },
-    {
-      "label": "All Spells",
-      "type": "Item",
-      "name": "all-spells",
-      "path": "packs/all-spells.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false,
-      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\all-spells.db"
-    },
-    {
-      "label": "All Wizard Spells",
-      "type": "Item",
-      "name": "all-wizard-spells",
-      "path": "packs/all-wizard-spells.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false,
-      "absPath": "D:\\FoundryVTT\\Data\\worlds\\foundry-template\\packs\\all-wizard-spells.db"
-    },
-    {
-      "label": "All Cleric Spells",
-      "type": "Item",
-      "name": "all-cleric-spells",
-      "path": "packs/all-cleric-spells.db",
-      "system": "dnd5e",
-      "package": "world",
-      "entity": "Item",
-      "private": false
-    }
-  ],
+  "packs": [ ],
   "system": "dnd5e",
   "dependencies": [],
   "socket": false,
