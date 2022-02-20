@@ -66,6 +66,7 @@
 {"name":"Armory","type":"Item","parent":"rlL75yG1MxRA81Kv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"GUwZZQMMGOlu0NRE"}
 {"_id":"HIVlHUdpS5qSZyDu","name":"Culto do Fogo","type":"Scene","parent":"FYyXvVs97BWILfOl","sorting":"a","sort":600000,"color":"#870303","flags":{}}
 {"name":"Beliard","type":"Scene","parent":"Z3kocQCjVTKBYtVt","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"HT1g0WNLVjsRCUlX"}
+{"name":"Features","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"HlXfsqFOYyqhWJAI"}
 {"_id":"I2Jgqsv17aN6vIng","name":"Table Items","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#4fab55","flags":{}}
 {"name":"Echo Cave","type":"Item","parent":"R3ME2protVcO5Lg9","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"IEgENtDf2bRFDssg"}
 {"name":"Quest: Fortaleza Riverguard","type":"JournalEntry","parent":"pIRmbIKtaH3XCc1u","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"ITY18jI2uZN5nPJy"}
@@ -85,7 +86,6 @@
 {"_id":"L7PSLHH0gJkm1ha8","name":"Lago Azul","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":"","flags":{"textColour":""}}
 {"_id":"LCiShc2MCw1tn8qG","name":"Quest: Castelo Naerytar","type":"JournalEntry","parent":"LcQ632qTVgos2Sgr","sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"ToD","type":"JournalEntry","parent":"F6lzkBvIyUZbIv2c","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"LcQ632qTVgos2Sgr"}
-{"name":"Items","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"LrzrOEpgBCD6OGD6"}
 {"name":"ZZZ","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"M0sZzIbDsMmUElgd"}
 {"name":"100 gp","type":"Item","parent":"2WJCjlt7MKgczI5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"MBf8K98ZxRCLWYjL"}
 {"name":"Distrito do Rio","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"MJvJOxMp9DXpxhQx"}
@@ -110,7 +110,6 @@
 {"name":"Salão Summit","type":"Scene","parent":"Z3kocQCjVTKBYtVt","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"RhaIdhb7cHgWPbkZ"}
 {"name":"Quest: Pináculo Penaventaval","type":"JournalEntry","parent":"pIRmbIKtaH3XCc1u","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"S9TBrWzsgwfi0aY3"}
 {"name":"Sub Enconter","type":"RollTable","parent":"SvbK6NZV5TTgeY4H","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"SHxntJfYWHFmewoA"}
-{"name":"Class Features","type":"Item","parent":"dvxrZ4KIJVYKceZ0","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"SXcWSTxfRtwh5QUJ"}
 {"name":"Tresandar","type":"Item","parent":"R3ME2protVcO5Lg9","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"SdvUkAnGVEO6Hf4Q"}
 {"name":"Lost Mine of Phandolver","type":"RollTable","parent":"EhRXEFCW49DZJV6Q","sorting":"a","sort":0,"color":"#b57021","flags":{"textColour":""},"_id":"SvbK6NZV5TTgeY4H"}
 {"name":"Quest: O Alce Branco","type":"JournalEntry","parent":"qZXOZ6qonWzU24Sy","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"TlUFcPz4gXabCqL1"}
@@ -151,8 +150,8 @@
 {"name":"Roll Tables","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#008000","flags":{},"_id":"cZZx4o51KC7znsU8"}
 {"name":"Quest: Axeholm","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"flags":{},"_id":"cZncxqbwVbOH6kTR"}
 {"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ckcnoIw3fYkesk9v"}
+{"name":"Class Features","type":"Item","parent":"HlXfsqFOYyqhWJAI","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"dDXpuyGUX9qUYOdb"}
 {"name":"Lost Mine of Phandelver","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#b57021","flags":{},"_id":"dtREHQGQqSbKdQtU"}
-{"name":"Features","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"dvxrZ4KIJVYKceZ0"}
 {"name":"50 gp","type":"Item","parent":"2WJCjlt7MKgczI5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"eitkc35nteC6NzlH"}
 {"name":"Easthaven","type":"Actor","parent":"ZKxsMUEsRjVpxQf3","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"er17RiYdXvX0PPDn"}
 {"_id":"ezMbrkAxou9f2ngk","name":"BGM","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#c26b6b","flags":{}}
@@ -181,7 +180,6 @@
 {"_id":"lirbJDRXZkVcOBFr","name":"Faerun-Citys","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#7e0214","flags":{}}
 {"name":"Ravenloft Factions","type":"JournalEntry","parent":"PFWeo01VXPxaWnS5","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"ltw1dd4lXonkjWGi"}
 {"_id":"lyx8oARepKZPb0mk","name":"Monster Manual","type":"Actor","parent":null,"sorting":"a","sort":900000,"color":"#8b0404","flags":{"textColour":""}}
-{"name":"Custom Items Players","type":"Item","parent":"KKVCx9ivPZx6MpPo","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"m6B2rCEPc9K8HZbR"}
 {"_id":"mRwij5wHmPjNklcq","name":"Hoard of the DragonQueen","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"a","sort":0,"color":"","flags":{"textColour":""}}
 {"name":"Barovia Items","type":"Item","parent":"KKVCx9ivPZx6MpPo","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"mUGOTDk99PInTHDe"}
 {"name":"Rents","type":"Item","parent":"rlL75yG1MxRA81Kv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"n2gbG4fduAZTSvbk"}
@@ -202,6 +200,7 @@
 {"name":"IDRotF","type":"JournalEntry","parent":"F6lzkBvIyUZbIv2c","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"qZXOZ6qonWzU24Sy"}
 {"_id":"qjWRUFF8ZtO1Pz24","name":"Womford","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":500000,"color":"#000000","flags":{}}
 {"_id":"r06BVU5fUnvKiq1y","name":"Combat","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#c32c2c","flags":{}}
+{"name":"Class Features","type":"Item","parent":"HlXfsqFOYyqhWJAI","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"rEgQiIJBTKscTviC"}
 {"name":"Good Mead","type":"Actor","parent":"ZKxsMUEsRjVpxQf3","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"rfzCUgpAumDwGIeP"}
 {"name":"Custom Items Shop","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"rlL75yG1MxRA81Kv"}
 {"_id":"rrxuAPvkGPLLMfoU","name":"Tyranny of Dragons","type":"RollTable","parent":"EhRXEFCW49DZJV6Q","sorting":"a","sort":0,"color":"#8f0000","flags":{"textColour":""}}
