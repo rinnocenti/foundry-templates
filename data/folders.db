@@ -42,7 +42,6 @@
 {"_id":"AjWq0Gq3Xc78eo3e","name":"Westbridge","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":200000,"color":"#000000","flags":{"textColour":""}}
 {"name":"Generators","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"Ao0PSOTD6Dg7b2gi"}
 {"name":"DONT DELETE","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"BRlP2tXMmXbUmOdx"}
-{"name":"Npc Players","type":"Actor","parent":"YxbZP5eohcKJDrAz","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"BYmuXGu7w6uOYnSz"}
 {"name":"DAE","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#800000","flags":{},"_id":"BdiXgJvaYD0exetZ"}
 {"name":"Bremen","type":"Actor","parent":"ZKxsMUEsRjVpxQf3","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"CdAbqjScahGdlyE5"}
 {"_id":"Ci3kbjnOpi0Bt27F","name":"Adventures","type":"JournalEntry","parent":null,"sorting":"a","sort":1000000,"color":null,"flags":{"textColour":""}}
@@ -63,6 +62,7 @@
 {"name":"Quest: A Casa da Morte","type":"JournalEntry","parent":"Zp7bPOlW0R1imgAU","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"G8L0wLkRMUujJYhr"}
 {"name":"Rivergard","type":"Item","parent":"R3ME2protVcO5Lg9","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"GL0X1j9D5z2swIvN"}
 {"_id":"GP92PJHKPK8Id2Oo","name":"Players 3a FR","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":"#1d38bf","flags":{}}
+{"name":"Players 6a PotA","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#1d38bf","flags":{},"_id":"GU0xK9cv1idSwzE4"}
 {"name":"Armory","type":"Item","parent":"rlL75yG1MxRA81Kv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"GUwZZQMMGOlu0NRE"}
 {"_id":"HIVlHUdpS5qSZyDu","name":"Culto do Fogo","type":"Scene","parent":"FYyXvVs97BWILfOl","sorting":"a","sort":600000,"color":"#870303","flags":{}}
 {"name":"Beliard","type":"Scene","parent":"Z3kocQCjVTKBYtVt","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"HT1g0WNLVjsRCUlX"}
@@ -86,12 +86,10 @@
 {"_id":"L7PSLHH0gJkm1ha8","name":"Lago Azul","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":"","flags":{"textColour":""}}
 {"_id":"LCiShc2MCw1tn8qG","name":"Quest: Castelo Naerytar","type":"JournalEntry","parent":"LcQ632qTVgos2Sgr","sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"ToD","type":"JournalEntry","parent":"F6lzkBvIyUZbIv2c","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"LcQ632qTVgos2Sgr"}
-{"name":"ZZZ","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"M0sZzIbDsMmUElgd"}
 {"name":"100 gp","type":"Item","parent":"2WJCjlt7MKgczI5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"MBf8K98ZxRCLWYjL"}
 {"name":"Distrito do Rio","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"MJvJOxMp9DXpxhQx"}
 {"_id":"Mb1XBGON5hXRAuKr","name":"Players 5a tLMoP","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#1d38bf","flags":{}}
 {"name":"DiP","type":"Actor","parent":"o6JlYjmt5yL9FKyv","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"N34NHLS2zLGu2tYM"}
-{"name":"Players Folder","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"NdXEyOB4VoIdhu5w"}
 {"name":"Lonelywood","type":"Actor","parent":"ZKxsMUEsRjVpxQf3","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"Ne0F5nM2qfvveOyB"}
 {"_id":"NnQDOciQj7mVXuud","name":"Princes of the Apocalypse","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"m","sort":200000,"color":"#360aae","flags":{}}
 {"name":"Tribos","type":"JournalEntry","parent":"PFWeo01VXPxaWnS5","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"O1yIDZrehqAhriwq"}
@@ -121,7 +119,6 @@
 {"name":"Vale Dessarin","type":"Actor","parent":"Eww86oqTfJAc3fpW","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"UptTAn9oQhm61GMA"}
 {"_id":"V10ZPqiu6hHko6OB","name":"Full Tables","type":"RollTable","parent":"I2Jgqsv17aN6vIng","sorting":"a","sort":100000,"color":null,"flags":{"textColour":""}}
 {"name":"Cities","type":"Scene","parent":"dtREHQGQqSbKdQtU","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"VQaskvJWImvaaEIv"}
-{"name":"Conditions","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"VSpXsozqlySCxlMc"}
 {"_id":"VUMZK33R4Vam8cE2","name":"Dragon of Icespire Peak","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#9de2ec","flags":{"textColour":"#3e3e3c"}}
 {"name":"Custom Tomos","type":"Item","parent":"KKVCx9ivPZx6MpPo","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"Vvgr69Xt1v53DaCr"}
 {"name":"LMoP","type":"JournalEntry","parent":"F6lzkBvIyUZbIv2c","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"WF4bmdZtcQUD4oXK"}
@@ -131,7 +128,6 @@
 {"name":"_fql_quests","type":"JournalEntry","parent":"qZXOZ6qonWzU24Sy","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"Y60xUqJChRHIb04A"}
 {"name":"Quest: O Invisivel","type":"JournalEntry","parent":"qZXOZ6qonWzU24Sy","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"YT2a2U7a9QFoSUMu"}
 {"_id":"YTtDlQ9MBNLBSnYw","name":"Ruinas of Berez","type":"Actor","parent":"xYD2XiaxtQvm02JC","sorting":"a","sort":200000,"color":null,"flags":{"textColour":""}}
-{"name":"Players 6a PotA","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#1d38bf","flags":{},"_id":"YxbZP5eohcKJDrAz"}
 {"_id":"Z3kocQCjVTKBYtVt","name":"Vale Dessarin","type":"Scene","parent":"FYyXvVs97BWILfOl","sorting":"a","sort":100000,"color":"#000000","flags":{}}
 {"name":"Dez Cidades","type":"Actor","parent":"Eww86oqTfJAc3fpW","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"ZKxsMUEsRjVpxQf3"}
 {"name":"Custom Foods","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"ZdtHTJ2QbaCagRPQ"}
@@ -149,7 +145,6 @@
 {"_id":"cMKOJycjhEi5jBED","name":"Lost Mine of Phandelver","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"m","sort":300000,"color":"#b57021","flags":{}}
 {"name":"Roll Tables","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#008000","flags":{},"_id":"cZZx4o51KC7znsU8"}
 {"name":"Quest: Axeholm","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"flags":{},"_id":"cZncxqbwVbOH6kTR"}
-{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ckcnoIw3fYkesk9v"}
 {"name":"Class Features","type":"Item","parent":"HlXfsqFOYyqhWJAI","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"dDXpuyGUX9qUYOdb"}
 {"name":"Lost Mine of Phandelver","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#b57021","flags":{},"_id":"dtREHQGQqSbKdQtU"}
 {"name":"50 gp","type":"Item","parent":"2WJCjlt7MKgczI5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"eitkc35nteC6NzlH"}
@@ -161,11 +156,11 @@
 {"name":"Dungeons","type":"Scene","parent":"FYyXvVs97BWILfOl","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"g1xpU1jcT33PcUL3"}
 {"_id":"g2HUZAgk05Oq1YVp","name":"The Rise of Tiamat","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"m","sort":100000,"color":"#990505","flags":{}}
 {"name":"Tables","type":"RollTable","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"hElo445BQj9h8NzI"}
+{"name":"Players Folder","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"hFGyflpeE2n0nfAc"}
 {"name":"Player Macros","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#e4950c","flags":{},"_id":"hLxEetJjAin9LgNJ"}
 {"name":"Monasterio","type":"Item","parent":"R3ME2protVcO5Lg9","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"hMsnsM4vd0ziqKWZ"}
 {"name":"_High Deck","type":"JournalEntry","parent":"FipTBk4w1bn9YuwL","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"hTNa1luyd7HgR3G5"}
 {"name":"Icewind Dale","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#13a8cd","flags":{},"_id":"hvRH6OCeidjHMUMA"}
-{"name":"Paulo","type":"Macro","parent":"NdXEyOB4VoIdhu5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"i9FZ8stYCbKkZFMA"}
 {"name":"Snow Battle Map","type":"Scene","parent":"EiGz7cTSqDb8X2Vv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"iR7ApsX9xUaewuCs"}
 {"_id":"iVClSRkF7rNnRHLQ","name":"Beliard","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":100000,"color":"#000000","flags":{}}
 {"_id":"j8IVGgXZiwGB9Kg0","name":"Items (SRD)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{"textColour":""}}
@@ -182,13 +177,16 @@
 {"_id":"lyx8oARepKZPb0mk","name":"Monster Manual","type":"Actor","parent":null,"sorting":"a","sort":900000,"color":"#8b0404","flags":{"textColour":""}}
 {"_id":"mRwij5wHmPjNklcq","name":"Hoard of the DragonQueen","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"a","sort":0,"color":"","flags":{"textColour":""}}
 {"name":"Barovia Items","type":"Item","parent":"KKVCx9ivPZx6MpPo","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"mUGOTDk99PInTHDe"}
+{"name":"Paulo","type":"Macro","parent":"hFGyflpeE2n0nfAc","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"mjtappFYu9sE2PPm"}
 {"name":"Rents","type":"Item","parent":"rlL75yG1MxRA81Kv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"n2gbG4fduAZTSvbk"}
+{"name":"Players","type":"Actor","parent":"GU0xK9cv1idSwzE4","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"nCc8bTByA0FOwooT"}
 {"_id":"nExicvsdJq5f5t9K","name":"Vila de Barovia","type":"Actor","parent":"xYD2XiaxtQvm02JC","sorting":"a","sort":300000,"color":"#000000","flags":{}}
 {"name":"Segredos","type":"JournalEntry","parent":"9h6OMqpVv2IcL8Zc","sorting":"a","sort":0,"color":"#04716a","flags":{},"_id":"ncOm6rAFKxy9zqUh"}
 {"name":"Dougan's Hole","type":"Actor","parent":"ZKxsMUEsRjVpxQf3","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"nzvEDIDUfeWonGPK"}
 {"_id":"o6JlYjmt5yL9FKyv","name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":700000,"color":"#2b4823","flags":{"textColour":""}}
 {"name":"Supernatural Gifts and Rewards","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"oBZ7PEHlAk6Z55vl"}
 {"_id":"oD2iqgN1klBIVntr","name":"TenTowns","type":"Scene","parent":"hvRH6OCeidjHMUMA","sorting":"a","sort":100000,"color":"#000000","flags":{}}
+{"name":"Players","type":"Actor","parent":"Mb1XBGON5hXRAuKr","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"oL48c4q8EvP2EP2p"}
 {"name":"Quests","type":"Scene","parent":"dtREHQGQqSbKdQtU","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"oNGheFPV65TGHplT"}
 {"_id":"oZ6hdA0KdxIUaDOM","name":"Out of the Abyss","type":"JournalEntry","parent":"Ci3kbjnOpi0Bt27F","sorting":"m","sort":700000,"flags":{}}
 {"name":"Transports","type":"Item","parent":"rlL75yG1MxRA81Kv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"odJRpOqJLrSBeHL3"}
@@ -212,6 +210,7 @@
 {"name":"Rios","type":"JournalEntry","parent":"WPsJhtX83IfR6CEu","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"uSaZvkuV3PYScLV6"}
 {"name":"Custom items Locks","type":"Item","parent":"KKVCx9ivPZx6MpPo","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"v9VZsw547HZRXN5f"}
 {"name":"TftYP-tsc","type":"JournalEntry","parent":"F6lzkBvIyUZbIv2c","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"vIzIUqip51QSBNHl"}
+{"name":"Npc Players","type":"Actor","parent":"GU0xK9cv1idSwzE4","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"vVpwI4j2pZPUcZTd"}
 {"name":"Summit Hall","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"vdvMZNfgBET4S9Ei"}
 {"name":"10 pg","type":"Item","parent":"2WJCjlt7MKgczI5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"w6J5kbjEuuEptAWX"}
 {"name":"Custom Recipies","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"wBTtqhTxF1xNrLvY"}
