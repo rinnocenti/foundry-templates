@@ -15,7 +15,7 @@
   "socket": false,
   "protected": false,
   "background": "assets/scenes/background/dungeons-1631385278345-2683.jpg",
-  "coreVersion": "9.249",
+  "coreVersion": "9.255",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "1.5.7"

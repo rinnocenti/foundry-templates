@@ -4,12 +4,16 @@
 {"_id":"320Y38pZNs9qgG1L","name":"Templates","type":"Actor","parent":null,"sorting":"a","sort":800000,"color":"#065089","flags":{"textColour":""}}
 {"name":"Quest: Castelo Dentefino","type":"JournalEntry","parent":"WF4bmdZtcQUD4oXK","sorting":"a","sort":0,"flags":{},"_id":"3uLmxBZVTLcJb8j5"}
 {"name":"LMoP","type":"JournalEntry","parent":"g0hsWXAO2qoMs2vE","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"401YWm44ydKfSpzC"}
+{"name":"Custom Item Npc Midi","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"4C5in7gsfQPimpWp"}
+{"name":"Quest: Mina de Ouro Dedão do Pé da Montanha","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"4Gk3wNqzhHGpD1W6"}
+{"name":"Quest: Gnomegarde","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"flags":{},"_id":"6aDAB7sXvtyTX2YB"}
 {"name":"Bargewright Inn","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"6ww26GLxUmjiXyhC"}
 {"_id":"84PgTlzZSF4tLL4I","name":"Outros","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#1fa898","flags":{}}
 {"name":"Factions","type":"JournalEntry","parent":"PFWeo01VXPxaWnS5","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"8B8X9zQTCjkJWeAU"}
 {"name":"Dellmon Ranch","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"8fsRmCyKdxgKkc89"}
 {"name":"Amphil","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"8x6OufQFVWNQ4rWN"}
 {"_id":"9h6OMqpVv2IcL8Zc","name":"Informações Players","type":"JournalEntry","parent":null,"sorting":"a","sort":600000,"color":"#041b8b","flags":{}}
+{"name":"Quest: Alojamento de Caça do Falcon","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"9zq0yslD08madxdL"}
 {"_id":"AYjqF5wtyxCWzBg5","name":"Triboar","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":400000,"color":"#000000","flags":{}}
 {"_id":"AjWq0Gq3Xc78eo3e","name":"Westbridge","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":200000,"color":"#000000","flags":{"textColour":""}}
 {"name":"Generators","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"Ao0PSOTD6Dg7b2gi"}
@@ -28,14 +32,15 @@
 {"_id":"KOU4DZFoXsEMTzAO","name":"SFX","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#525a98","flags":{}}
 {"name":"Neverwinter","type":"JournalEntry","parent":"lirbJDRXZkVcOBFr","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"KmkDAz5rYS8brlK1"}
 {"_id":"L7PSLHH0gJkm1ha8","name":"Lago Azul","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":"","flags":{"textColour":""}}
-{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"LMOG22wwbi3V8L0I"}
 {"name":"Distrito do Rio","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"MJvJOxMp9DXpxhQx"}
 {"name":"DiP","type":"Actor","parent":"o6JlYjmt5yL9FKyv","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"N34NHLS2zLGu2tYM"}
-{"name":"Players Folder","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"NdXEyOB4VoIdhu5w"}
 {"name":"Tribos","type":"JournalEntry","parent":"PFWeo01VXPxaWnS5","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"O1yIDZrehqAhriwq"}
 {"name":"Leilon","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"OGMdmJ3IkO6bJCzl"}
 {"_id":"PFWeo01VXPxaWnS5","name":"Faerun-Factions","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#095340","flags":{"textColour":""}}
+{"name":"Players","type":"Actor","parent":"GP92PJHKPK8Id2Oo","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"Pw0x8xzkz1NrgN1J"}
 {"name":"Quest: Esconderijo Marcarubras","type":"JournalEntry","parent":"WF4bmdZtcQUD4oXK","sorting":"a","sort":0,"flags":{},"_id":"Q0STYLs6SLxqSOfv"}
+{"name":"Custom Item MIDI","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"RIhPGiYMlAJ7dWzQ"}
+{"name":"NPCs","type":"Actor","parent":"GP92PJHKPK8Id2Oo","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"S3pgoTnc0R60BBjG"}
 {"name":"Sub Enconter","type":"RollTable","parent":"SvbK6NZV5TTgeY4H","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"SHxntJfYWHFmewoA"}
 {"name":"Lost Mine of Phandolver","type":"RollTable","parent":"EhRXEFCW49DZJV6Q","sorting":"a","sort":0,"color":"#b57021","flags":{"textColour":""},"_id":"SvbK6NZV5TTgeY4H"}
 {"name":"Vale Dessarin","type":"Actor","parent":"Eww86oqTfJAc3fpW","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"UptTAn9oQhm61GMA"}
@@ -49,18 +54,23 @@
 {"name":"Roll Tables","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#008000","flags":{},"_id":"cZZx4o51KC7znsU8"}
 {"name":"Quest: Axeholm","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"flags":{},"_id":"cZncxqbwVbOH6kTR"}
 {"name":"Lost Mine of Phandelver","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#b57021","flags":{},"_id":"dtREHQGQqSbKdQtU"}
+{"name":"Quest: Escavação dos Anões","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"eCgeiLT9uWgxGsQZ"}
+{"name":"Quest: Colinas Melindrosas","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"eCsj5UdrBF1yXCHs"}
 {"_id":"ezMbrkAxou9f2ngk","name":"BGM","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#c26b6b","flags":{}}
 {"name":"Custom Rules","type":"JournalEntry","parent":"9h6OMqpVv2IcL8Zc","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"fNI0tywDnWgEIVBR"}
 {"_id":"g0hsWXAO2qoMs2vE","name":"Faerun-Locals","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":"#900404","flags":{"textColour":""}}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"h8RfUAqKmRwQPhKQ"}
+{"name":"Players Folder","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"hFGyflpeE2n0nfAc"}
 {"name":"Player Macros","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#e4950c","flags":{},"_id":"hLxEetJjAin9LgNJ"}
-{"name":"Paulo","type":"Macro","parent":"NdXEyOB4VoIdhu5w","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"i9FZ8stYCbKkZFMA"}
 {"name":"Snow Battle Map","type":"Scene","parent":"EiGz7cTSqDb8X2Vv","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"iR7ApsX9xUaewuCs"}
 {"_id":"iVClSRkF7rNnRHLQ","name":"Beliard","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":100000,"color":"#000000","flags":{}}
 {"name":"Neverwinter","type":"Actor","parent":"Eww86oqTfJAc3fpW","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"jsusewFRsTASKnqP"}
 {"_id":"lirbJDRXZkVcOBFr","name":"Faerun-Citys","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#7e0214","flags":{}}
 {"_id":"lyx8oARepKZPb0mk","name":"Monster Manual","type":"Actor","parent":null,"sorting":"a","sort":900000,"color":"#8b0404","flags":{"textColour":""}}
+{"name":"Paulo","type":"Macro","parent":"hFGyflpeE2n0nfAc","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"mjtappFYu9sE2PPm"}
 {"_id":"o6JlYjmt5yL9FKyv","name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":700000,"color":"#2b4823","flags":{"textColour":""}}
 {"name":"Quests","type":"Scene","parent":"dtREHQGQqSbKdQtU","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"oNGheFPV65TGHplT"}
+{"name":"Quest: Acampamento dos Madereiros","type":"JournalEntry","parent":"wxtFZ2jQI9G4o07Z","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"p8nqziT0ajvxgHxg"}
 {"name":"Yartar","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"pRJLlzwiu3P9gC1W"}
 {"_id":"qjWRUFF8ZtO1Pz24","name":"Womford","type":"Actor","parent":"UptTAn9oQhm61GMA","sorting":"a","sort":500000,"color":"#000000","flags":{}}
 {"_id":"r06BVU5fUnvKiq1y","name":"Combat","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#c32c2c","flags":{}}
@@ -72,3 +82,4 @@
 {"name":"Abismo","type":"Actor","parent":"jsusewFRsTASKnqP","sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"yVTdAp2C9iUCuajw"}
 {"name":"Quest: Ruínas de Thundertree","type":"JournalEntry","parent":"WF4bmdZtcQUD4oXK","sorting":"a","sort":0,"flags":{},"_id":"yXhspTQ3w3rQrU4f"}
 {"name":"Outros","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"zWGtgBQB29zXEk5l"}
+{"name":"Items","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ml6axvP4ynLU4HYV"}
